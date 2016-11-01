@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <flight>
+        <id>uuid</id>
+        <code>update</code>
+        <number>MH17</number>
+        <from>Amsterdam Airport Schiphol</from>
+        <time_from>12:13</time_from>
+        <to>Kuala Lumpur International Airport</to>
+        <time_to>06:00</time_to>
+        <status>canceled</status>
+        <delay>30m</delay>
+    </flight>
+    <flight>
+        <id>uuid</id>
+        <code>update</code>
+        <number>MH17</number>
+        <from>Amsterdam Airport Schiphol</from>
+        <time_from>12:13</time_from>
+        <to>Kuala Lumpur International Airport</to>
+        <time_to>06:00</time_to>
+        <status>canceled</status>
+        <delay>30m</delay>
+    </flight>
+</data>
